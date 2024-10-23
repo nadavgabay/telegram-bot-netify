@@ -1,0 +1,8 @@
+{
+  "name": "telegram-bot-netlify",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "axios": "^0.21.1"
+  }
+}

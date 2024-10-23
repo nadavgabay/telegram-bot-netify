@@ -1,0 +1,7 @@
+[build]
+  functions = "netlify/functions"
+
+[[headers]]
+  for = "/.netlify/functions/bot"
+  [headers.values]
+    Content-Type = "application/json"
